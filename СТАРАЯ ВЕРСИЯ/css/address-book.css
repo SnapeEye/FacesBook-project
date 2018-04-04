@@ -1,0 +1,39 @@
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Lato", sans-serif;
+}
+
+.w3-bar,h1,button {
+    font-family: "Montserrat", sans-serif;
+}
+
+.fa-anchor,.fa-coffee {
+    font-size:200px;
+}
+
+.regField {
+    margin: 0 auto;
+    font-weight:bold;
+}
+
+.logField {
+    margin: 0 auto;
+    font-weight:bold;
+}
+
+.img-user {
+    max-width: 20%;
+    height: auto;
+    border: 2px solid red;
+}
+
+.nickname-text-decorate {
+	
+}
+
+.contact-number-display {
+	
+}
+
+.button-logout-decoration {
+	
+}

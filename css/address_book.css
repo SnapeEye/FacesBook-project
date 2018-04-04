@@ -1,0 +1,21 @@
+.vertical-align {
+  vertical-align: middle!important;
+}
+
+input {
+  text-align: center;
+}
+
+.search-element {
+  height: 30px;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+#search-indicator {
+  padding-bottom: 2px;
+}
+
+.format-column {
+  max-width: 400px;
+}
